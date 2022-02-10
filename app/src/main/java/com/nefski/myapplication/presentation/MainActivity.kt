@@ -1,7 +1,8 @@
-package com.nefski.myapplication
+package com.nefski.myapplication.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.nefski.myapplication.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
